@@ -7,7 +7,7 @@
 <h1 align="center">Hei! Olen Ismo 👋</h1>
 
 <p align="center">
-  Indie-Pelikehittäjä • XR/AR/VR • Digitaalliset kaksoset • AI & Data Science
+  Indie-Pelikehittäjä• PC/Web/Android • XR/AR/VR • Digitaalliset kaksoset • AI & Data Science
 </p>
 
 ## 🌌 Kuka olen?
@@ -90,5 +90,7 @@ Projekti oli ryhmätyö missä olin vastussaa pelin toiminnallisuudesta ja kehit
 - **Itch.IO:** [https://tyrantoftime.itch.io/tyrant-of-time-wonder-teddy-hostile-statues]
 
 
-
+# 📦 Pienempiä projekteja
+- | Projekti           | Kuvaus                     | Linkki |
+- | **AI: Guitar CNN** | Äänien luokittelu CNN:llä  | [LINK] |
 
