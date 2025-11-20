@@ -10,10 +10,6 @@
   Indie-Pelikehittäjä• PC/Web/Android • XR/AR/VR • Digitaalliset kaksoset • AI & Data Science
 </p>
 
-<div style="background:#222; padding:15px; border-radius:10px;">
-  <span style="color:#00ffcc;">Tämä on futuristinen laatikko.</span>
-</div>
-
 ## 🌌 Kuka olen?
 
 Insinööri tieto- ja viestintätekniikka, valmistunut kesäkuussa 2025 Lapin Ammattikorkeakouluta.
