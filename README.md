@@ -82,12 +82,12 @@ Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarina
 ## 🧊 **Tyrant of Time: Wonder Teddy & The Hostile Statues**  
 <img src="PROJECT_IMAGE_PI" width="100%" />
 
-**- Kuvaus:** Kesäpeliopinnoissa kehitetty Unreal Engine Adventure Action peli, missä pelaat tyttö hahmolla, jonka on löydettävä Wonder Teddy ja tuhottava vihamieliset patsaat.
-**- Mitä opin:** Tässä projektissa opin tekemään oman 3D hahmon, käyttämään Mixamon animaatioita, kehittämään pelissä tapahtuvat pelitekniikat Unreal Enginellä ja pelin tallennustoiminnat.
+- **Kuvaus:** Kesäpeliopinnoissa kehitetty Unreal Engine Adventure Action peli, missä pelaat tyttö hahmolla, jonka on löydettävä Wonder Teddy ja tuhottava vihamieliset patsaat.
+- **Mitä opin:** Tässä projektissa opin tekemään oman 3D hahmon, käyttämään Mixamon animaatioita, kehittämään pelissä tapahtuvat pelitekniikat Unreal Enginellä ja pelin tallennustoiminnat.
 Projekti oli ryhmätyö missä olin vastussaa pelin toiminnallisuudesta ja kehityksestä.
-**- Tekniikkaa:** Unreal Engine • 3D Character creation • AI beheaviour  
-**- YouTube:** [https://www.youtube.com/watch?v=-KybQwbMB7w]
-**- Itch.IO:** [https://tyrantoftime.itch.io/tyrant-of-time-wonder-teddy-hostile-statues]
+- **Tekniikkaa:** Unreal Engine • 3D Character creation • AI beheaviour  
+- **YouTube:** [https://www.youtube.com/watch?v=-KybQwbMB7w]
+- **Itch.IO:** [https://tyrantoftime.itch.io/tyrant-of-time-wonder-teddy-hostile-statues]
 
 
 
