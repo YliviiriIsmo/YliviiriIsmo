@@ -76,7 +76,7 @@ Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarina
 - **Kuvaus:** Tämä on hauska runner peli, missä pelaat koiramaisella Miko hahmolla. Juokset läpi seikkailukentän väistellen esteitä.
 - **Mitä opin:** Tässä projektissa tein oman 3D hahmot, käytin Mixamon animaatioita, sekä kehittämään runner pelin.
 - **Tekniikkaa:** Unity • 3D • Runner  
-- **YouTube:** [youtube.com/watch?v=p_N9tJUrVRQ&embeds_referring_euri=https%3A%2F%2Fismo-yliviiri.itch.io%2Fmikos-flipping-adventure&source_ve_path=Mjg2NjY]
+- **YouTube:** [https://www.youtube.com/watch?v=p_N9tJUrVRQ]
 - **Itch.IO:** [https://ismo-yliviiri.itch.io/mikos-flipping-adventure]
 
 ## 🧊 **Tyrant of Time: Wonder Teddy & The Hostile Statues**  
