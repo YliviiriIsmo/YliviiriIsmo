@@ -95,3 +95,13 @@ Projekti oli ryhmätyö missä olin vastussaa pelin toiminnallisuudesta ja kehit
 - | **AI: Guitar CNN** | Äänien luokittelu CNN:llä (Numpy, librosa, matplotlib, tensorflow) | [https://github.com/YliviiriIsmo/Guitar-Sound-Analyze] |
 - Lisää tulossa myöhemmin
 
+<!--
+## 📫 Yhteydenotto
+
+- LinkedIn → *LINKKI*  
+- YouTube (Game Dev) → *LINKKI*  
+- Itch.io → *LINKKI*  
+
+---
+
+### ⭐ Kiitos kun vierailit profiilissani!-->
