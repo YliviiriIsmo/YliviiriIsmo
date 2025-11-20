@@ -1,10 +1,5 @@
 <!--  **YliviiriIsmo/YliviiriIsmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<div style="background:#111; padding:40px 20px; border-radius:0;">
-  <h1 style="color:#0ad4ff;">Hei!</h1>
-  <p style="color:#eee;">Tähän voit laittaa koko README:n sisällön.</p>
-</div>
-
 <div style="background:#111; padding:40px;">
   <!-- koko profiilin sisältö tänne -->
 
