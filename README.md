@@ -1,4 +1,4 @@
-<!--  **YliviiriIsmo/YliviiriIsmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--  **YliviiriIsmo/YliviiriIsmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
 
 <div style="background:#111; padding:40px;">
   <!-- koko profiilin sisältö tänne -->
@@ -49,7 +49,7 @@ Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarina
 # 🌟 Projektit (Highlight)
 
 ## 🧊 **Raspberry Pi Arcade – ECOCOM-Game**  
-<img src="PROJECT_IMAGE_PI" width="100%" />
+<!-- <img src="PROJECT_IMAGE_PI" width="100%" />-->
 
 - **Kuvaus:** Opinnäytetyö Ecocom Oy yritykselle, peli toimii Raspberry Pi:llä olevassa RetroPie emulaattorissa ja sitä pelataan Arcade pelikoneella.
 - **Tekniikkaa:** Python • PyGame • Raspberry Pi  
@@ -57,7 +57,7 @@ Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarina
 - **YouTube:** https://www.youtube.com/watch?v=TdmwE1etEmo
 
 ## 🧊 **Christmas Adventure**  
-<img src="PROJECT_IMAGE_PI" width="100%" />
+<!-- <img src="PROJECT_IMAGE_PI" width="100%" />-->
 
 - **Kuvaus:** Opetin ammattikoululaisille kuinka kehittää 2D-platformer peli, omana tuotoksena kehitin Jouluaiheisen pelin.
 - **Tekniikkaa:** Unity WebGL • 2D Animations • Mobile Controls  
@@ -65,7 +65,7 @@ Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarina
 - **Itch.IO:** [https://ismo-yliviiri.itch.io/christmas-adventure]
 
 ## 🧊 **Hockey? Okay!**  
-<img src="PROJECT_IMAGE_PI" width="100%" />
+<!-- <img src="PROJECT_IMAGE_PI" width="100%" />-->
 
 - **Kuvaus:** Mobiili ja Web peli missä pelaat jääkiekkoa koiramaisella hahmolla Mikolla hänen ystäväänsä Piggyä vastaan.
 - **Mitä opin:** Tässä projektissa opin kehittämään pelin multi platformille, peli toimii webissä, puhelimella, tietokoneella ja Steam Deckillä. Opin myös kehittämään AI tekniikkaa, mikä sopii jääkiekko peliin.
@@ -74,7 +74,7 @@ Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarina
 - **Itch.IO:** [https://ismo-yliviiri.itch.io/hockey-okay]
 
 ## 🧊 **Miko's Flipping Adventure**  
-<img src="PROJECT_IMAGE_PI" width="100%" />
+<!-- <img src="PROJECT_IMAGE_PI" width="100%" />-->
 
 - **Kuvaus:** Tämä on hauska runner peli, missä pelaat koiramaisella Miko hahmolla. Juokset läpi seikkailukentän väistellen esteitä.
 - **Mitä opin:** Tässä projektissa tein oman 3D hahmot, käytin Mixamon animaatioita, sekä kehittämään runner pelin.
@@ -83,7 +83,7 @@ Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarina
 - **Itch.IO:** [https://ismo-yliviiri.itch.io/mikos-flipping-adventure]
 
 ## 🧊 **Tyrant of Time: Wonder Teddy & The Hostile Statues**  
-<img src="PROJECT_IMAGE_PI" width="100%" />
+<!-- <img src="PROJECT_IMAGE_PI" width="100%" />-->
 
 - **Kuvaus:** Kesäpeliopinnoissa kehitetty Unreal Engine Adventure Action peli, missä pelaat tyttö hahmolla, jonka on löydettävä Wonder Teddy ja tuhottava vihamieliset patsaat.
 - **Mitä opin:** Tässä projektissa opin tekemään oman 3D hahmon, käyttämään Mixamon animaatioita, kehittämään pelissä tapahtuvat pelitekniikat Unreal Enginellä ja pelin tallennustoiminnat.
