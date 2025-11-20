@@ -7,6 +7,6 @@
 <h1 align="center">Hei! Olen Ismo 👋</h1>
 
 <p align="center">
-  Pelikehittäjä • XR/AR/VR • AI & Data Science • Indie-studion rakentaja  
+  Indie-Pelikehittäjä • XR/AR/VR • Digitaalliset kaksoset • AI & Data Science
 </p>
 
