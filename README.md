@@ -15,9 +15,10 @@
 
 ## 🌌 Kuka olen?
 
-Insinööri tieto- ja viestintätekniikka, valmistunut kesäkuussa 2025 Lapin Ammattikorkeakouluta.
-Teen pelejä, XR-maailmoja ja AI-pohjaisia ratkaisuja Lapista käsin.  
-Kehitän Digitaallisia kaksosia SolidComp Oy:lle ja olen myös opettanut ohjelmointia sekä pelikehitystä Rovaniemen koulutuskuntayhtymä REDU:ssa.
+- Insinööri tieto- ja viestintätekniikka, valmistunut kesäkuussa 2025 Lapin Ammattikorkeakoulusta.
+- Teen pelejä, XR-maailmoja ja AI-pohjaisia ratkaisuja Lapista käsin.  
+- Kehitän Digitaallisia kaksosia SolidComp Oy:lle.
+- Olen myös opettanut ohjelmointia sekä pelikehitystä Rovaniemen koulutuskuntayhtymä REDU:ssa.
 
 Tykkään yhdistää **pelit**, **XR-teknologiat**, **AI/ML-mallit** ja **tarinallisuuden** — ja rakentaa niistä kokonaisia maailmoja.
 
