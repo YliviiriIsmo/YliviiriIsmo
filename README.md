@@ -1,6 +1,13 @@
 <!--  **YliviiriIsmo/YliviiriIsmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<p align="center">
+<div align="center">
+  <img src="..." width="100%" />
+</div>
+
+<div style="background:#111; padding:40px;">
+  <!-- koko profiilin sisältö tänne -->
+
+  <p align="center">
   <img src="https://github.com/user-attachments/assets/47f75225-6369-4f5e-9767-cc0bf5836511" alt="Game Dev Banner" />
 </p>
 
@@ -105,3 +112,6 @@ Projekti oli ryhmätyö missä olin vastussaa pelin toiminnallisuudesta ja kehit
 ---
 
 ### ⭐ Kiitos kun vierailit profiilissani!-->
+</div>
+
+
