@@ -1,7 +1,7 @@
 <!--  **YliviiriIsmo/YliviiriIsmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <p align="center">
-  <img src="BANNER_URL" alt="Game Dev Banner" />
+  <img src="<img width="322" height="554" alt="Image" src="https://github.com/user-attachments/assets/fad6fe61-d388-4db0-a76b-fe5d57f7c138" />" alt="Game Dev Banner" />
 </p>
 
 <h1 align="center">Hei! Olen Ismo 👋</h1>
